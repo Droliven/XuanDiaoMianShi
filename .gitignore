@@ -1,0 +1,7 @@
+*.csv
+*.docx
+*.html
+.idea/*
+test.py
+__pycache__/
+config.yaml
